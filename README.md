@@ -1,4 +1,4 @@
-# My cute little dot files.
+# My dot files.
 
 Cause I fuck up my systems alot! :D
 
