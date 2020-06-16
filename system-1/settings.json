@@ -1,0 +1,27 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "eslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Material Theme Darker",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.rendererType": "canvas",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "codestream.email": "lakshya@polyrithm.com",
+    "emmet.includeLanguages": {},
+    "workbench.editor.enablePreview": false,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "editor.rulers": [],
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+}
